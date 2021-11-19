@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GjorgiG
+- 👀 I’m interested in football, music and computers.
+- 🌱 I’m currently learning Applied Computing.
