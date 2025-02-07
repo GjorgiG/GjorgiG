@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @GjorgiG
-- 👀 I’m interested in football, music and computers.
-- 🌱 I’m currently learning Applied Computing.
+![GitHub Stats](https://streak-stats.demolab.com?user=GjorgiG&theme=dark&hide_border=true)
