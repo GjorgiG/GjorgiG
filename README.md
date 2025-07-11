@@ -1,1 +1,1 @@
-![GitHub Stats](https://streak-stats.demolab.com?user=GjorgiG&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GjorgiG&theme=github-dark)](https://git.io/streak-stats)
